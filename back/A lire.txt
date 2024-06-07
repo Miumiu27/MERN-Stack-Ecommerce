@@ -1,0 +1,6 @@
+Ce projet est presenté par:
+- Andriahariniaina Kanto Fitiavana N°16
+- Rakotomalala Andoniaina Miora N°21
+
+
+Dans le fichier product.json se trouve la base de donnée exportée de Mongo DB Compass 

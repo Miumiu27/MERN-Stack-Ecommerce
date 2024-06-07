@@ -1,0 +1,199 @@
+.header{
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    background-color: #EEEEEE;
+  }
+  
+  .nav__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo{
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+    
+  
+  }
+  
+  
+  
+  .logo img{
+    width: 40px;
+    height: 40px;
+  }
+  .logo h1{
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    font-weight: 600;
+  }
+  
+  
+  .menu{
+    display: flex ;
+    align-items: center;
+    column-gap: 2.7rem;
+  
+  }
+  
+  .nav__item a{
+    color: var(--primary-color);
+    font-weight:500 ;
+    cursor: pointer;
+  
+  
+  
+  }
+  
+  .nav__icons{
+    column-gap: 1.2rem;
+    align-items:  center;
+    display: flex;
+    
+  
+  }
+  .ri-shopping-bag-3-line, .ri-store-2-line, .ri-store-3-line{
+    font-size:  6mm;
+  }
+  
+  .nav__icons span i{
+    font-size: 1.3rem;
+    color:rgb(8, 8, 51);
+  
+  }
+  .nav__icons .profile img{
+    cursor: pointer;
+    width:30px;
+    height:  30px;
+    border-radius: 50px;
+  
+  }
+  .nav__icons .profile{
+    position: relative;
+    z-index: 9;
+  }
+  .nav__icons .profile .profile__actions {
+    position: absolute;
+    top: 98%;
+    left: 0;
+    width: 100px;
+     z-index: 10;
+     padding: 8px;
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+     background: var(--card-bg-01);
+     line-height: 30px;
+     cursor: pointer;
+  }
+  .mobile__menu{
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    display: none;
+  }
+  .nav__active{
+    font-weight: 600;
+  }
+  
+  .sticky__header{
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    box-shadow: 3px 3px 8px -3px #ddd;
+    background-color: white;
+  }
+  
+  .cart__icon, .fav__icon{
+    position: relative;
+    
+  }
+  .badge{
+    position: absolute;
+    top: 18px;
+    left: 90%;
+    width: 15px;
+    height: 15px;
+    content: '';
+    background: var(--primary-color);
+    color: #fff; ;
+    border-radius: 40px;
+    font-size: 0.6rem;
+    font-weight: 600;
+    z-index: 10;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  @media only screen and (max-width:768px){
+    .navigation{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.53);
+        z-index: 9999;
+        display: none;
+  
+    }
+  
+    .menu{
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 250px;
+        height: 100%;
+        background: #fff;
+        z-index: 99999;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+  
+    }
+  
+    .active__menu{
+        display: block;
+    }
+  
+    .mobile_menu{
+        display: block;
+    }
+    .mobile_menu span i{
+        font-size: 1.1rem !important;
+    }
+    .logo img{
+        width: 1rem;
+        height: 1rem;
+    }
+    .logo h1{
+        font-size: 1rem;
+    }
+    .fav__icon i, .cart__icon i{
+        font-size: 1.2rem !important;
+    }
+    .nav__icons span img{
+        width: 1.4rem;
+        height: 1.4rem;
+    }
+    .header{
+        width: 100%;
+        height: 60px;
+        line-height: 60px;
+    }
+    .active__menu {
+      background: whitesmoke;
+      cursor: pointer;
+      
+  }
+  }
+
+  .devis-icon {
+    font-size: 22px; 
+  }

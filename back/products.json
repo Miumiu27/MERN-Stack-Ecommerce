@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "64a164a90d7d4df9231096db"
+  },
+  "name": "Stone and Beam Westview ",
+  "category": "Sofa",
+  "price": 193,
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688298665608-88122089.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a1657b0d7d4df9231096e0"
+  },
+  "name": "Rivet Bigelow Modern",
+  "category": "Sofa",
+  "price": 253,
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+  "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi co",
+  "image": "image-1688299013971-509270577.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a165a60d7d4df9231096e3"
+  },
+  "name": "Amazon Brand Modern Sofa",
+  "category": "Sofa",
+  "price": 163,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299028401-670221550.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a166c00d7d4df9231096f4"
+  },
+  "name": "Rivet Bigelow Modern",
+  "category": "Sofa",
+  "price": 253,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299200093-875476693.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a167000d7d4df9231096f7"
+  },
+  "name": "Fllufy Sheep Sofa",
+  "category": "Sofa",
+  "price": 163,
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299264207-200123962.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a167330d7d4df9231096fa"
+  },
+  "name": "Faux Velvet Sofa",
+  "category": "Sofa",
+  "price": 163,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299339571-841180352.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a167820d7d4df923109700"
+  },
+  "name": "Fllufy Sheep Sofa",
+  "category": "Sofa",
+  "price": 163,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299394625-739188398.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a167c40d7d4df923109703"
+  },
+  "name": "Sakarias Armchair",
+  "category": "Chair",
+  "price": 99,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299459802-178255234.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a167f20d7d4df923109706"
+  },
+  "name": "Modern Arm Sofa",
+  "category": "Chair",
+  "price": 157,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299506751-958142805.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a168380d7d4df923109709"
+  },
+  "name": "Baltsar Chair",
+  "category": "Chair",
+  "price": 89,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299576393-153670549.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a168570d7d4df92310970c"
+  },
+  "name": "Helmar Chair",
+  "category": "Chair",
+  "price": 112,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299607229-984599373.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a168a80d7d4df92310970f"
+  },
+  "name": " Apple iPhone 12 Pro",
+  "category": "Mobile",
+  "price": 799,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299688606-257436944.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a168e00d7d4df923109712"
+  },
+  "name": "Sakarias Armchair",
+  "category": "Chair",
+  "price": 99,
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299744858-256301521.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a169120d7d4df923109715"
+  },
+  "name": "Apple iPhone 12 Max",
+  "category": "Mobile",
+  "price": 799,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299794106-313251771.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a1693f0d7d4df923109718"
+  },
+  "name": "Realme 8",
+  "category": "Mobile",
+  "price": 599,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299839760-848046635.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a169740d7d4df92310971b"
+  },
+  "name": "One Plus Nord",
+  "category": "Mobile",
+  "price": 799,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299892729-259181833.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a1699f0d7d4df92310971e"
+  },
+  "name": "Apple iPhone 13 Pro",
+  "category": "Mobile",
+  "price": 899,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299935639-480544552.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a169cc0d7d4df923109721"
+  },
+  "name": "Samsung Galaxy S22",
+  "category": "Mobile",
+  "price": 699,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688299980650-809208627.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a16a1b0d7d4df923109724"
+  },
+  "name": "Rolex Watch",
+  "category": "Watch",
+  "price": 299,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688300059159-546510845.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a16a410d7d4df923109727"
+  },
+  "name": "Timex Easy Reader Watch",
+  "category": "Watch",
+  "price": 299,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688300097824-8558426.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a16a740d7d4df92310972a"
+  },
+  "name": "Rolex Watch",
+  "category": "Watch",
+  "price": 299,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688300148051-935778785.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a16aa40d7d4df92310972d"
+  },
+  "name": "Apple Watch",
+  "category": "Watch",
+  "price": 399,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688300196643-981269251.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a16b0c0d7d4df923109733"
+  },
+  "name": "Beat EP Headphones",
+  "category": "Wireless",
+  "price": 199,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688300300778-855024026.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a16b670d7d4df92310973d"
+  },
+  "name": "Beat EP Headphones",
+  "category": "Wireless",
+  "price": 199,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688300391256-908231003.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a16bf50d7d4df923109747"
+  },
+  "name": "Headphones  Master ",
+  "category": "Wireless",
+  "price": 199,
+  "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse voluptatibus dolorum eos reiciendis, nisi consequuntur corrupti rerum voluptas! Numquam, iure cum dolor ut consectetur voluptatem ipsum maxime blanditiis laudantium animi!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1688300533824-292468678.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64acfff8821a20d14cbea000"
+  },
+  "name": "Test",
+  "category": "Sofa",
+  "price": 123,
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+  "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+  "image": "image-1689059320903-865689040.jpg",
+  "__v": 0
+}]

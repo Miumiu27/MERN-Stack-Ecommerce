@@ -1,0 +1,25 @@
+.common__section{
+    background: linear-gradient(rgba(103, 103, 103, 0.238), rgba(212, 212, 212, 0.387)),
+    url('../assets/images/common-section-bg.jpg') no-repeat center center;
+    background-size: cover;
+    height: 350px;
+    padding: 100px 0px;
+    align-items: center;
+    justify-content: center;
+}
+
+.common__section h1{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    text-decoration: solid;
+}
+
+@media only screen and (max-width: 768px){
+    .common__section{
+        padding: 70px 0px;
+    }
+    
+    .common__section h1{
+        font-size: 1.4rem;
+    }
+}

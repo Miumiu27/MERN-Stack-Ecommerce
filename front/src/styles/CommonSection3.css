@@ -1,0 +1,25 @@
+.CommonSection3{
+    background: linear-gradient(rgba(103, 103, 103, 0.238), rgba(212, 212, 212, 0.387)),
+    url('../assets/images/ship.jpg') no-repeat center center;
+    background-size: cover;
+    height: 390px;
+    padding: 100px 0px;
+    align-items: center;
+    justify-content: center;
+}
+
+.CommonSection3 h1{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    text-decoration: solid;
+}
+
+@media only screen and (max-width: 768px){
+    .CommonSection3{
+        padding: 70px 0px;
+    }
+    
+    .CommonSection3 h1{
+        font-size: 1.4rem;
+    }
+}

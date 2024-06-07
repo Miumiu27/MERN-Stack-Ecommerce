@@ -1,0 +1,139 @@
+.admin__header {
+    width: 100%;
+    padding: 20px 0px;
+    background: var(--primary-color);
+  }
+  
+  .admin__nav-top {
+    width: 100%;
+  }
+  
+  .admin__nav-wrapper-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 3rem;
+  }
+  
+  .admin__nav-top-right img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  
+  .admin__nav-top-right {
+    display: flex;
+    align-items: center;
+    column-gap: 2rem;
+  }
+  
+  .search__box {
+    position: relative;
+  }
+  
+  .search__input {
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+    border: 2px solid #070d25;
+    border-radius: 5px;
+  }
+  
+  .search__icon {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #070d25;
+  }
+  
+  .admin__menu {
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    background: var(--card-bg-02);
+  }
+  
+  .admin__navigation {
+    text-align: center;
+  }
+  
+  .admin__menu-list {
+    display: flex;
+    align-items: center;
+    column-gap: 2.7rem;
+    justify-content: center;
+  }
+  
+  .admin__menu-list .admin__menu-item a {
+    color: var(--primary-color);
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .active__admin-menu {
+    background: whitesmoke;
+  }
+  
+  .profile img {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+  }
+  
+  .profile {
+    position: relative;
+    z-index: 9;
+  }
+  
+  .profile .profile__actions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100px;
+    z-index: 10;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: var(--card-bg-01);
+    line-height: 30px;
+    cursor: pointer;
+  }
+  
+  .admin__navbar.active {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    transition: all 0.3s ease-in;
+  }
+  
+  .admin__nav-top-right .logo img {
+    width: 100px;
+    height: auto;
+  }
+  .admin__menu-list .admin__menu-item a {
+    color: var(--primary-color);
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+  }
+  .admin__nav-top-right span i {
+    color: #FFFFFF; 
+  }
+  
+
+  @media (max-width: 768px) {
+    .admin__menu-list .admin__menu-item a {
+      padding: 10px; 
+      font-size: 14px;
+    }
+  }
+  

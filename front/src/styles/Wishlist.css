@@ -1,0 +1,28 @@
+.table tr td img{
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+
+
+td i {
+    cursor: pointer;
+
+}
+
+td{
+    color: var(--primary-color);
+}
+
+
+.box3{
+    box-shadow: 2px 5px 14px 0px rgb(107, 113, 141);
+
+    border-radius: 20px;
+    padding-left: 30px;
+
+}
+.gif{
+    width: 200px;
+    height: 200px;
+}
