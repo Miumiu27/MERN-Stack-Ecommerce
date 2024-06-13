@@ -1,0 +1,20 @@
+How to centralize Api call in the .env file ?
+
+Le framework JavaScript ReacJS permet de créer son site entièrement en JavaScript. C'est notamment le cas pour les applications client. Ce sont des applications qui interagissent avec une API située sur un autre serveur et donnent les informations en temps réel. La connexion à l'API est sécurisée. Le plus souvent, on utilise une clé secrète pour gérer l'authentification. Il est possible de stocker cette clé dans un fichier sur React pour pouvoir ensuite l'utiliser quand vous devez effectuer des requêtes.
+
+Avec ReactJS, on stocke une clé d'API dans un fichier au format ".env". Pour gérer ces fichiers, vous pouvez utiliser le paquet "dotenv". Si vous avez créé votre application avec "create-react-app", vous n'avez pas besoin d'installer le paquet, il est déjà installé et votre application est déjà configurée. Si ce n'est pas le cas, utilisez NPM, le gestionnaire de paquets des serveurs Node.js pour l'installer, puis ajoutez dans votre application la ligne pour utiliser le plugin.
+
+//Installation du paquet "dotenv"
+npm install dotenv --save
+//Ajout de la ligne suivante dans votre application
+require('dotenv').config()
+Vous pouvez ensuite créer votre fichier ".env". Vous devez le faire dans le répertoire "Root" de l'application. Vous devez stocker votre clé dans une variable dont le nom commence par "REACT_APP_" pour que le framework puisse la lire. Si vous utilisez un système de gestion de versions, vous devez ajouter le fichier dans la liste des fichiers à ignorer afin que votre clé ne se retrouve pas en ligne. Il s'agit par exemple du fichier ".gitignore" pour Git ou ".hgignore" pour Mercurial.
+
+#dans le fichier .env
+REACT_APP_CLE_API=maclesecrete
+Vous devez ensuite construire de nouveau votre application pour que les fichiers au format ENV soient pris en compte et chargés par le framework. La commande "npm run start" permettra de reconstruire le projet puis de le lancer. Cette commande est à utiliser à chaque fois que vous modifiez ou ajoutez un fichier au format "ENV". Pour accéder à votre variable dans le code, vous devez utiliser la notation "process.env." suivie du nom de votre variable.
+
+//Reconstruit l'application pour prendre en compte les modifications effectuées sur les fichiers ENV
+npm run start
+//Accéder à la variable dans le code de votre application
+let cleAPI = {process.env.REACT_APP_CLE_API}
